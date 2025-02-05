@@ -34,5 +34,5 @@ A full-stack **GraphQL-based web application** built using **React (Vite + TypeS
 ## **🚀 Getting Started**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/graphql-react-app.git
+git clone https://github.com/Hari-hara7/Graphql-test.git
 cd graphql-react-app
